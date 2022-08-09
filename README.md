@@ -1,10 +1,14 @@
-# P-Jadhav
-This is my first repo
+# My Repo for latest projects at INSAID
 
-- Point 1
-- Point 2
+## Here is the list of all projects
 
-___
+- [Finance](https://github.com/Pooja1693/P-Jadhav/tree/main/Finance-Project "Finance")
+- Accounts
+- Banking
+- Energy
 
-
-print ('hello world') 
+| Finance Project  | [![Finance](https://raw.githubusercontent.com/Pooja1693/P-Jadhav/main/images/Fin.JPG "Finance")](https://raw.githubusercontent.com/Pooja1693/P-Jadhav/main/images/Fin.JPG "Finance")   |
+| :------------: | :------------: |
+| [![Accounts](https://raw.githubusercontent.com/Pooja1693/P-Jadhav/main/images/Fin.JPG "Accounts")](https://raw.githubusercontent.com/Pooja1693/P-Jadhav/main/images/Fin.JPG "Accounts")  | Accounts Project  |
+| Banking Project  | [![Banking](https://raw.githubusercontent.com/Pooja1693/P-Jadhav/main/images/Fin.JPG "Banking")](https://raw.githubusercontent.com/Pooja1693/P-Jadhav/main/images/Fin.JPG "Banking")  |
+|  [![Energy](https://raw.githubusercontent.com/Pooja1693/P-Jadhav/main/images/Fin.JPG "Energy")](https://raw.githubusercontent.com/Pooja1693/P-Jadhav/main/images/Fin.JPG "Energy") |  Energy Project |
