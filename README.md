@@ -6,6 +6,5 @@ This is my first repo
 
 ___
 
-''' 
-print ('hello world')
-''' 
+
+print ('hello world') 
